@@ -1,0 +1,21 @@
+.product-date{
+    background-color: black;
+    color: #fff;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+}
+
+.product-date_month{
+    font: 300;
+    size: 10px;
+}
+
+.product-date_day{
+    font-size: 15px;
+}
