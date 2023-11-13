@@ -73,7 +73,7 @@ function App() {
         <br></br>
         <br></br>
         <input type='radio' onChange={changeHandler} 
-        name='mode' id="Offline-mode" value='Offline-mode' checked={formData.mode === "offline-mode"} />
+        name='mode' id="Offline-mode" value='Offline-mode' checked={formData.mode === "Offline-mode"} />
         <label htmlFor='Offline-mode'>Offline Mode</label>
 
         <br></br>
